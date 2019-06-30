@@ -11,8 +11,13 @@ No desenvolvimento do protótipo usamos os comandos: ( Listas,funções,matriz,o
 e usamos uma ferramenta fornecida pelo google maps para usarmos para calcular a distância entre supermercado e cliente que é o geolocation. )
 
 Instalação:
+
 Abra o terminal no Windows ou Linux e digite:
+
 Baixa e instale o "python" 			//Caso ainda não tenha o python instalado
+
+
 pip install geolocation-python			//Para instalar as ferramentas do geolocation
+
 python AppSupermercado.py			//irá executar o arquivo AppSupermercado que está disponível para baixar
 
